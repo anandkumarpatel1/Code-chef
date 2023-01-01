@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "cstdarg": "c",
+        "cstdint": "c",
+        "cstdio": "c",
+        "cstdlib": "c",
+        "limits": "c",
+        "type_traits": "c"
+    }
+}
