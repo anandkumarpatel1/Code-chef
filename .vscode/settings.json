@@ -6,6 +6,7 @@
         "cstdio": "c",
         "cstdlib": "c",
         "limits": "c",
-        "type_traits": "c"
+        "type_traits": "c",
+        "stdio.h": "c"
     }
 }
