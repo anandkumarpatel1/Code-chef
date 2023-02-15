@@ -9,6 +9,7 @@
         "type_traits": "c",
         "stdio.h": "c",
         "string": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
